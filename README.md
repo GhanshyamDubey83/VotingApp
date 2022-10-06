@@ -1,5 +1,5 @@
 # VotingApp
-This is a simple demo website created by Ghanshyam Dubey.
+This is a simple demo website created by Ghanshyam Dubey (All rights reserved by the owner).
 
 
 About the websites:
